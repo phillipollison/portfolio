@@ -1,0 +1,16 @@
+{
+  "name": "jackson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d jackson"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https//phillipollison.github..io/portfolio",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
